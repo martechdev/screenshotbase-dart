@@ -1,6 +1,6 @@
 name: screenshotbase
 description: Dart client for Screenshotbase API to render website screenshots and PDFs. See https://screenshotbase.com
-version: 0.1.0
+version: 0.1.1
 homepage: https://screenshotbase.com
 repository: https://github.com/martechdev/screenshotbase-dart
 environment:
